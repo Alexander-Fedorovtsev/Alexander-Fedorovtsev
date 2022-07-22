@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Alexander. Python-developer and much more.
+- 🌱 I’m currently learning, learning, learning...
 <!--
 **Alexander-Fedorovtsev/Alexander-Fedorovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
