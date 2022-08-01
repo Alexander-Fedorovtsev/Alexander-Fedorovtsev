@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Alexander. Python-developer and much more.
 - 🌱 I’m currently learning, learning, learning...
+- 🔭 My technology stack: Python 3, Django REST framework, OOP, unittest, Docker, REST API, Java Script, SQL, SQLite, PostgreSQL, Yandex.Cloud, algorithms and data structures, HTML, CSS, Github
 <!--
 **Alexander-Fedorovtsev/Alexander-Fedorovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
