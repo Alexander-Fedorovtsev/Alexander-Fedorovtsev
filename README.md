@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 📫 How to reach me:
 
 [![@fedorovtsev_alexander](icons8-телеграмма-app-48.png)](https://t.me/fedorovtsev_alexander)
+[![You tube Alexander Fedorovtsev]()](https://www.youtube.com/channel/UC-2hhlo3eAopmfidwGWsrPA)
